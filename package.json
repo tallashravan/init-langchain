@@ -1,0 +1,20 @@
+{
+  "name": "project",
+  "dependencies": {
+    "@langchain/community": "^0.3.27",
+    "@langchain/core": "^0.3.36",
+    "@langchain/openai": "^0.4.2",
+    "@supabase/supabase-js": "^2.48.1",
+    "langchain": "^0.3.13",
+    "supabase": "^2.6.8"
+  },
+  "devDependencies": {
+    "vite": "latest"
+  },
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
